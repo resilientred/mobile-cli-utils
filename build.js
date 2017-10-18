@@ -1,6 +1,5 @@
 var fs = require('fs');
 var path = require('path');
-var pak='{"name": "mobile-builder","version": "1.0.0","description": "","main": "build.js","dependencies": {},"devDependencies": {},"scripts": {"test": "echo \"Error: no test specified\" && exit 1"},"author": "","license": "ISC"}';
 var packages=[
     "cordova-android",
     "cordova-browser",
